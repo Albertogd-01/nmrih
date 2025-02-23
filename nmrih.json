@@ -1,0 +1,118 @@
+{
+  "maps": [
+    {
+      "name": "Broadway",
+      "type": "objective",
+      "description": "Un mapa urbano donde los jugadores deben abrirse camino a través de un teatro y calles infestadas.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/5/56/Broadway_loading.png"
+    },
+    {
+      "name": "Cabin",
+      "type": "objective",
+      "description": "Una cabaña en el bosque donde los jugadores deben sobrevivir a ataques de zombis.",
+      "image": "https://media.moddb.com/images/mods/1/2/1834/nmo_cabin0020.jpg"
+    },
+    {
+      "name": "Chinatown",
+      "type": "objective",
+      "description": "Un distrito chino lleno de callejones estrechos y tiendas, donde los jugadores deben completar misiones.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/9/94/Chinatown_loading.png"
+    },
+    {
+      "name": "Toxteth",
+      "type": "objective",
+      "description": "Un barrio urbano con calles angostas y edificios abandonados.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/1/13/Toxteth_loading.png"
+    },
+    {
+      "name": "Lakeside",
+      "type": "objective",
+      "description": "Un campamento junto al lago donde los jugadores deben encontrar recursos y sobrevivir.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/c/c0/Lakeside_loading.png"
+    },
+    {
+      "name": "Junction",
+      "type": "objective",
+      "description": "Un cruce de carreteras donde los jugadores deben defenderse y buscar una salida.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/0/0d/Junction_loading.png"
+    },
+    {
+      "name": "Brooklyn",
+      "type": "objective",
+      "description": "Un distrito de la ciudad lleno de zombis y obstáculos.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/3/3b/Brooklyn_loading.png"
+    },
+    {
+      "name": "Zephyr",
+      "type": "objective",
+      "description": "Una estación de tren abandonada llena de peligros.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/2/29/Zephyr_loading.jpg"
+    },
+    {
+      "name": "Cleopas",
+      "type": "objective",
+      "description": "Un complejo de apartamentos donde los jugadores deben encontrar una salida mientras combaten zombis.",
+      "image": "https://i.ytimg.com/vi/pnoGRCYmlb8/maxresdefault.jpg"
+    },
+    {
+      "name": "Fema",
+      "type": "objective",
+      "description": "Un centro de evacuación donde los jugadores deben completar objetivos para sobrevivir.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/b/b3/Fema_loading.png"
+    },
+    {
+      "name": "Boardwalk",
+      "type": "objective",
+      "description": "Un paseo marítimo con tiendas y atracciones abandonadas.",
+      "image": "https://i.ytimg.com/vi/SFyWM_2tRbE/maxresdefault.jpg"
+    },
+    {
+      "name": "Broadway 2",
+      "type": "objective",
+      "description": "Una variante del mapa Broadway con nuevas rutas y desafíos.",
+      "image": "https://i.ytimg.com/vi/cM0vRzSNL8A/hq720.jpg"
+    },
+    {
+      "name": "Quarantine",
+      "type": "objective",
+      "description": "Una zona en cuarentena infestada de zombis.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/a/a3/Quarantine1.png"
+    },
+    {
+      "name": "Shelter",
+      "type": "objective",
+      "description": "Un refugio subterráneo donde los jugadores deben encontrar suministros y escapar.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/6/65/Shelter_code_door.png"
+    },
+    {
+      "name": "Suzhou",
+      "type": "objective",
+      "description": "Una ciudad de inspiración china con callejones y templos.",
+      "image": "https://i.ytimg.com/vi/wmChFdn6Y5g/maxresdefault.jpg"
+    },
+    {
+      "name": "Underground",
+      "type": "objective",
+      "description": "Un sistema de túneles subterráneos oscuros y peligrosos.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/e/e4/Underground_code_door.png"
+    },
+    {
+      "name": "Anxiety",
+      "type": "objective",
+      "description": "Un mapa inquietante con pasillos oscuros y enemigos impredecibles.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/d/d2/Anxiety_loading.png"
+    },
+    {
+      "name": "Rockpit",
+      "type": "objective",
+      "description": "Una mina abandonada llena de trampas y zombis.",
+      "image": "https://i.ytimg.com/vi/uYUtYp6Ae-g/maxresdefault.jpg"
+    },
+    {
+      "name": "Asylum",
+      "type": "objective",
+      "description": "Un hospital psiquiátrico aterrador donde los jugadores deben sobrevivir.",
+      "image": "https://static.wikia.nocookie.net/nmrh-game/images/8/86/538e4ea189370be93f7ecb75b6c44232bcd8e22d.png"
+    }
+  ]
+}
